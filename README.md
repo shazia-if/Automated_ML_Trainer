@@ -58,7 +58,7 @@ For regression tasks involving continuous targets, the application employs model
 #### Evaluation Metrics
 The evaluation metrics are tailored to the problem type: Mean Absolute Error (MAE) and Mean Squared Error (MSE) are used for regression tasks, while Accuracy Score is applied for classification tasks.
 
-## 📊 Example Use Case: Student Performance Analysis
+## Example Use Case: Student Performance Analysis
 
 ### Dataset Overview
 A student performance dataset containing:

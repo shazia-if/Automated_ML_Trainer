@@ -114,7 +114,7 @@ streamlit run app.py
 - Train models with one click
 - View performance comparison
 - Make predictions with custom inputs
-- 
+  
 ## Live Demo
 Try the Automated ML Trainer online: [Live Demo Link] (To be provided)
 

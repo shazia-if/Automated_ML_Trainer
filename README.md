@@ -80,7 +80,15 @@ A student performance dataset containing:
    - Model successfully predicts marks based on study hours input
 
 ### Key Insights
-Study hours demonstrate strong predictive power for student marks, and the relationship strength varies by subject, with Science showing the strongest correlation. The tool successfully identifies meaningful patterns without manual coding.
+- Study hours show a strong predictive relationship with student marks.
+
+- The strength of this relationship varies based on the amount of time spent studying.
+
+- Marks tend to increase as study hours increase, up to a certain point.
+
+- Beyond this optimal point, performance begins to slightly decline, suggesting that excessive studying may have a negative effect—similar to studying too little.
+
+- The tool used was able to identify these meaningful patterns effectively, without requiring manual coding.
 
 ## Installation & Usage
 
